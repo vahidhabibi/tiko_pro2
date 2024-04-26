@@ -113,6 +113,9 @@ pycache/
 # backwards compatibility for past contributors
 .husky
 
+# Ignor  .husky for new tip1
+# backwards compatibility for past contributors
+
 
 # VSCode
 .vscode/launch.json
