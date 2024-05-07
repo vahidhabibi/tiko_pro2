@@ -121,6 +121,7 @@ pycache/
 # Ignore .husky for new tip6
 # Ignore .husky for new tip7
 # Ignore .husky for new tip8
+# Ignore .husky for new tip9
 
 # VSCode
 .vscode/launch.json
